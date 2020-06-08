@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src=".github/logo.png" alt="Logo"><br /><br />
-  <img src=".github/pessoinhas.png" alt="Logo Image" height="200">
+  <img src=".github/logo.svg" alt="Logo"><br /><br />
+  <img src=".github/home.svg" alt="Logo Image" height="200">
 </h1>
 
 <h3 align="center">
@@ -28,9 +28,7 @@
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<img alt="Layout" src=".github/mockup.png">
-
-## :recycle: About the project
+## ♻️ About the project
 
 This project was developed on the Next Level Week event by [Rocketseat](https://rocketseat.com.br/) &nbsp;🚀💜
 
@@ -45,8 +43,6 @@ Technologies that I used to develop this api
 - [SQLite](https://www.sqlite.org/)
 
 ## 💻 Getting started
-
-Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomniaButton) button
 
 ### Requirements
 
